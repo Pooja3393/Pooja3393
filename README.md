@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on java project<br>🤝 I’m looking for help with learning web development<br>🌱 I’m currently learning python<br><br>
 
 
